@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MultiSelectionHelper.cs](./CS/MultiSelectionHelper.cs) (VB: [MultiSelectionHelper.vb](./VB/MultiSelectionHelper.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to select/deselect rows using mouse without affecting other rows
 
 
