@@ -3,18 +3,18 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2780)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WinForms Data Grid - Select data rows using mouse without CTRL
+
+This example creates a helper class that allows you to select multiple data rows without pressing the CTRL button. Clicking on a data row toggles its selection state.
+
+
+## Files to Review
 
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 * [MultiSelectionHelper.cs](./CS/MultiSelectionHelper.cs) (VB: [MultiSelectionHelper.vb](./VB/MultiSelectionHelper.vb))
-* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
-<!-- default file list end -->
-# How to select/deselect rows using mouse without affecting other rows
 
 
-<p>This example demonstrates how to create a helper class that allows you to select rows as if the CTRL button is pressed. I.e. rows selection is not cleared when a particular row is clicked. Only a clicked row's state is changed.</p>
+## Documentation
 
-<br/>
-
-
+* [Multiple Row and Cell Selection](https://docs.devexpress.com/WindowsForms/711/controls-and-libraries/data-grid/focus-and-selection-handling/multiple-row-and-cell-selection)
