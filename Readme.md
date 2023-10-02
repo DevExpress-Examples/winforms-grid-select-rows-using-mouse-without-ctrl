@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Select data rows using mouse without CTRL
 
-This example creates a helper class that allows you to select multiple data rows without pressing the CTRL button. Clicking on a data row toggles its selection state.
+This example creates a helper class that allows you to select multiple data rows without pressing the CTRL key. Clicking on a data row toggles its selection state.
 
 
 ## Files to Review
